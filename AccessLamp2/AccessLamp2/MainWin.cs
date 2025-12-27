@@ -73,7 +73,7 @@ namespace AccessLamp2
 			catch
 			{ }
 
-			return Path.Combine("..\\..\\..\\..\\..\\..\\icon", localFile);
+			return Path.Combine("..\\..\\..\\..\\icon", localFile);
 		}
 
 		private static int Icon_W = 16;
